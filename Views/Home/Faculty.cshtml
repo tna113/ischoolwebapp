@@ -1,0 +1,60 @@
+﻿@model iSchoolWebApp.Models.FacultyRootModel
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<link rel="stylesheet" href="~/css/style.css" />
+
+<h1>@Model.Title</h1>
+
+@foreach (var faculty in Model.faculty)
+{
+    <div class="faculty">
+        <div class="card">
+            <img src="@faculty.imagePath" alt="pic" />
+            
+            <div class="detail">
+                <h3>@faculty.name</h3>
+                <p class="text"><span class="label">Username: </span>@faculty.username</p>
+
+                @if (@faculty.tagline != "")
+                {
+                    <p class="text"><span class="label">Tagline: </span>@faculty.tagline</p>
+                }
+                @if (@faculty.interestArea != "")
+                {
+                    <p class="text"><span class="label">Interest Area: </span>@faculty.interestArea</p>
+                }
+                @if (@faculty.office != "")
+                {
+                    <p class="text"><span class="label">Office: </span>@faculty.office</p>
+                }
+                @if (@faculty.website != "")
+                {
+                    <p class="text">
+                        <span class="label">website: </span>
+                        <a href="@faculty.website" target="_blank">My wesite</a>
+                    </p>
+                }
+                @if (@faculty.phone != "")
+                {
+                    <p class="text"><span class="label">Phone: </span>@faculty.phone</p>
+                }
+                @if (@faculty.email != "")
+                {
+                    <p class="text"><span class="label">Email: </span>@faculty.email</p>
+                }
+                @if (@faculty.twitter != "")
+                {
+                    <p class="text"><span class="label">Twitter: </span>@faculty.twitter</p>
+                }
+                @if (@faculty.facebook != "")
+                {
+                    <p class="text"><span class="label">Facebook: </span>@faculty.facebook</p>
+                }
+            </div>
+        </div>
+    </div>
+}
+

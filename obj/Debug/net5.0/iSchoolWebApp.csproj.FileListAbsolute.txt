@@ -1,0 +1,355 @@
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.exe
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.deps.json
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.runtimeconfig.json
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.runtimeconfig.dev.json
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ref\iSchoolWebApp.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.pdb
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.Views.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.Views.pdb
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.AssemblyInfo.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorAssemblyInfo.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\scopedcss\bundle\iSchoolWebApp.styles.css
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\staticwebassets\iSchoolWebApp.StaticWebAssets.Manifest.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.TagHelpers.input.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.TagHelpers.output.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorCoreGenerate.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.Views.pdb
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.csproj.CopyComplete
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\ref\iSchoolWebApp.dll
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.pdb
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.genruntimeconfig.cache
+C:\Users\student\Desktop\2215\13B\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.exe
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.deps.json
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.runtimeconfig.json
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.runtimeconfig.dev.json
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ref\iSchoolWebApp.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.pdb
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.Views.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.Views.pdb
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.AssemblyInfo.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorAssemblyInfo.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\scopedcss\bundle\iSchoolWebApp.styles.css
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\staticwebassets\iSchoolWebApp.StaticWebAssets.Manifest.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.TagHelpers.input.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.TagHelpers.output.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorCoreGenerate.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.Views.pdb
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.csproj.CopyComplete
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\ref\iSchoolWebApp.dll
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.pdb
+C:\Users\student\Desktop\2215\14A\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.genruntimeconfig.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\ref\iSchoolWebApp.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.pdb
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.exe
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.deps.json
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.runtimeconfig.json
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.runtimeconfig.dev.json
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ref\iSchoolWebApp.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.pdb
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.Views.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\iSchoolWebApp.Views.pdb
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.csproj.AssemblyReference.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.AssemblyInfoInputs.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.AssemblyInfo.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.csproj.CoreCompileInputs.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorAssemblyInfo.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorAssemblyInfo.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\staticwebassets\iSchoolWebApp.StaticWebAssets.Manifest.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\staticwebassets\iSchoolWebApp.StaticWebAssets.xml
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\scopedcss\bundle\iSchoolWebApp.styles.css
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.TagHelpers.input.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.TagHelpers.output.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorCoreGenerate.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.Views.pdb
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.csproj.CopyComplete
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\iSchoolWebApp.genruntimeconfig.cache
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Faculty.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Undergraduate.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Graduate.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Minors.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Employment.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Staff.cshtml.g.cs
+C:\Users\bbyte\Documents\rit\2022\spring 2022\iste340 client programming\w14 apr18\iSchoolWebApp\iSchoolWebApp\obj\Debug\net5.0\Razor\Views\Home\Course.cshtml.g.cs

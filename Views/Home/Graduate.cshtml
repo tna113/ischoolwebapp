@@ -1,0 +1,66 @@
+﻿@model iSchoolWebApp.Models.GraduateRootModel
+
+@{
+    ViewData["Title"] = Model.Title;
+    string[] hrefs = { "#tabs-1", "#tabs-2", "#tabs-3", "#tabs-4" };
+    string[] ids = { "tabs-1", "tabs-2", "tabs-3", "tabs-4" };
+    int count = 0;
+}
+
+<link rel="stylesheet" href="~/css/style.css" />
+<script src="~/js/site.js"></script>
+
+<h1>@Model.Title</h1>
+<div id="tabs" class="graduate">
+    <ul>
+        @foreach (var graduate in Model.graduate)
+        {
+            if (count == 4)
+            {
+                count = 0;
+            }
+
+            <li><a href="@hrefs[count]">@graduate.degreeName</a></li>
+            count = count + 1;
+        }
+
+    </ul>
+
+    @foreach (var graduate in Model.graduate)
+    {
+        if (count == 4)
+        {
+            count = 0;
+        }
+
+        <div id="@ids[count]">
+            <!-- dealing with graduate degrees -->
+            @if (graduate.title != null)
+            {
+                <h3>@graduate.title</h3>
+                <p>@graduate.description</p>
+                <p>Concentrations:</p>
+                <div class="output">
+                    <ul>
+                        @foreach (String item in graduate.concentrations)
+                        {
+                            <li>@item</li>
+                        }
+                    </ul>
+                </div>
+            }
+            else {
+                <!-- dealing with available certificates -->
+                <p>Available Certificates:</p> 
+                <ul>
+                    @foreach(String item in graduate.availableCertificates)
+                    {
+                        <li>@item</li>
+                    }
+                </ul>
+            }
+        </div>
+
+        count = count + 1;
+    }
+</div>

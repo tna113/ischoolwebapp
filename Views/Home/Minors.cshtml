@@ -1,0 +1,28 @@
+﻿@model iSchoolWebApp.Models.MinorsRootModel
+
+@{
+    ViewData["Title"] = Model.title;
+}
+
+<link rel="stylesheet" href="~/css/style.css" />
+<script src="~/js/site.js"></script>
+
+<h1>@Model.title</h1>
+<div id="accordion" class="minors">
+    @foreach (var Minors in Model.minors) { 
+        <h3>@Minors.title</h3>
+        <div>
+            <h2>@Minors.name</h2>
+            <p>@Minors.description</p>
+            <p>Courses:</p>
+            <ul>
+                @foreach(String item in Minors.courses)
+                {
+                    <li>@item</li>
+                }
+            </ul>
+
+            <p>Note: @Minors.note</p>
+        </div>
+    }
+</div>

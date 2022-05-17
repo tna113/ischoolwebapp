@@ -1,0 +1,53 @@
+﻿@model iSchoolWebApp.Models.UndergraduateRootModel
+
+@{
+    ViewData["Title"] = Model.Title;
+    string[] hrefs = { "#tabs-1", "#tabs-2", "#tabs-3" };
+    string[] ids = { "tabs-1", "tabs-2", "tabs-3" };
+    int count = 0;
+}
+
+<link rel="stylesheet" href="~/css/style.css" />
+<script src="~/js/site.js"></script>
+
+<h1>@Model.Title</h1>
+<div id="tabs" class="undergraduate">
+    <ul>
+        @foreach (var undergraduate in Model.undergraduate)
+        {
+            if (count == 3)
+            {
+                count = 0;
+            }
+
+            <li><a href="@hrefs[count]">@undergraduate.degreeName</a></li>
+            count = count + 1;
+        }
+
+    </ul>
+
+    @foreach(var undergraduate in Model.undergraduate)
+    {
+        if (count == 3)
+        {
+            count = 0;
+        }
+
+        <div id="@ids[count]">
+            <h3>@undergraduate.title</h3>
+            <p>@undergraduate.description</p>
+            <p>Concentrations:</p>
+
+            <div class="output">
+                <ul>
+                    @foreach (String item in undergraduate.concentrations)
+                    {
+                        <li>@item</li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+        count = count + 1;
+    }
+</div>
