@@ -1,0 +1,57 @@
+﻿/* faculty & staff */
+
+.staff, .faculty {
+    min-height: 260px;
+    width: 200px;
+    display: inline-table;
+    margin: 20px;
+}
+
+.staff img, .faculty img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.staff .card, .faculty .card {
+    border: 1px solid black;
+    min-height: 400px;
+}
+
+.detail {
+    padding: 10px;
+}
+
+.staff h3, .faculty h3 {
+    font-size:1em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p.text {
+    font-size:0.7em;
+    margin:0;
+    padding:0;
+}
+
+span.label {
+    font-weight: bold;
+}
+
+
+/* undergraduate & graduate */
+
+
+/* course */
+.course .card {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px 20px 30px 20px;
+}
+
+.course .card h3 {
+    font-size: 1.3em;
+}
+
+.course .card p {
+    font-size: 1em;
+}
