@@ -116,9 +116,14 @@ namespace iSchoolWebApp.Controllers
             return View(minorModel);
         }
 
-        public IActionResult Employment()
+        public async Task<IActionResult> Employment()
         {
-            return View();
+            //set up to load the data
+            var getEmployment = new GetEmployment();
+            //get the data
+            var loadedEmployment = await getEmployment.getAllEmployment();
+            //send to view
+            return View(loadedEmployment);
         }
 
         public async Task<IActionResult> Course()
