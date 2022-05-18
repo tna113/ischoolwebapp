@@ -55,3 +55,13 @@ span.label {
 .course .card p {
     font-size: 1em;
 }
+
+/* employment */
+.employment .card {
+    border: none;
+    margin: 20px;
+}
+
+.employment .card h2 {
+    text-decoration: underline;
+}
