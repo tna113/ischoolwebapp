@@ -1,4 +1,5 @@
-﻿
+﻿@model iSchoolWebApp.Models.EmploymentRootModel
+
 @{
     ViewData["Title"] = "Employment";
 }
@@ -7,4 +8,49 @@
 <script src="~/js/site.js"></script>
 
 <h1>Employment</h1>
-<p>Coming soon</p>
+<div class="employment">
+
+    <div class="card">
+        <h2>@Model.introduction.title</h2>
+        @foreach (var content in Model.introduction.content)
+        {
+            <h4>@content.title</h4>
+            <p>@content.description</p>
+        }
+    </div>
+
+    <div class="card">
+        <h2>@Model.degreeStatistics.title</h2>
+        <p>@Model.degreeStatistics.statistics</p>
+    </div>
+
+    <div class="card">
+        <h2>@Model.employers.title</h2>
+        <ul>
+            @foreach (var employer in Model.employers.employerNames)
+            {
+                <li>@employer</li>
+            }
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>@Model.careers.title</h2>
+        <ul>
+            @foreach (var career in Model.careers.careerNames)
+            {
+                <li>@career</li>
+            }
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>@Model.coopTable.title</h2>
+        <p>Coming Soon</p>
+    </div>
+
+    <div class="card">
+        <h2>@Model.employmentTable.title</h2>
+        <p>Coming Soon</p>
+    </div>
+</div>
