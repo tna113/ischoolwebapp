@@ -26,18 +26,13 @@ namespace iSchoolWebApp.Services
                 //int count = 0;
 
                 try {
-                    EmploymentRootModel empRoot = new EmploymentRootModel();
-
-                    //LATER: use foreach(var item in url iterate through instead of packing one at a time
-                    
                     //get introduction
                     HttpResponseMessage response = await client.GetAsync("employment/", HttpCompletionOption.ResponseHeadersRead);
                     response.EnsureSuccessStatusCode();
-                    var rtnResult = await response.Content.ReadAsStringAsync();
-                    var resultIntro = JsonConvert.DeserializeObject<Dictionary<String, List<Introduction>>>(introData);
-                    foreach(KeyValuePair<String, List<Introduction>> kvp in resultIntro) { }
+                    var data = await response.Content.ReadAsStringAsync();
 
-                    return empRoot;
+                    var rtnResult = JsonConvert.DeserializeObject<EmploymentRootModel>(data);
+                    return rtnResult;
 
                 }
                 catch (HttpRequestException hre)
